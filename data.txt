@@ -1,0 +1,42 @@
+
+===== ORDER #1000 =====
+Customer: anuj
+Phone: 23455
+VIP: NO
+Tandoori Chicken x 1 = 350.00
+Total: 350.00
+
+===== ORDER #1001 =====
+Customer: anuj
+Phone: 23455
+VIP: NO
+Tandoori Chicken x 1 = 350.00
+Total: 350.00
+
+===== ORDER #1000 =====
+Customer: queen
+Phone: 645798
+VIP: NO
+Pizza x 2 = 500.00
+Total: 500.00
+
+===== ORDER #1001 =====
+Customer: queen
+Phone: 645798
+VIP: NO
+Pizza x 2 = 500.00
+Total: 500.00
+
+===== ORDER #1002 =====
+Customer: queen
+Phone: 645798
+VIP: NO
+Pizza x 2 = 500.00
+Total: 500.00
+
+===== ORDER #1000 =====
+Customer: gkg
+Phone: 9y
+VIP: NO
+Butter Chicken x 3 = 840.00
+Total: 840.00
